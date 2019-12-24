@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yifei Liu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
+role: Ph.D. student of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Stony Brook University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer systems and machine learning for systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- File/Storage Systems
+- Operating Systems
+- Machine Learning for Systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Stony Brook University, New York
+    year: Current
+  - course: MSc in Computer System Architecture
+    institution: Huazhong University of Science and Technology
+    year: 2019
+  - course: BEng in Computer Science and Technology
+    institution: Huazhong Agricultural University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
