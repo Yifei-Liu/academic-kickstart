@@ -17,6 +17,27 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Huazhong University of Science and Technology"
+  organization_url = "http://english.hust.edu.cn/"
+  title = "Outstanding Graduate"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-10"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Huazhong Agricultural University"
+  organization_url = "http://www.hzau.edu.cn/en/HOME.htm"
+  title = "Outstanding Graduate"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-06-10"
+  date_end = ""
+  description = ""
+
 
 [[item]]
   organization = "COMAP (Consortium for Mathematics and Its Applications)"
