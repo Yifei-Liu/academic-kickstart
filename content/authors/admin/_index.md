@@ -16,7 +16,7 @@ role: Ph.D. student of Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Stony Brook University
-  url: ""
+  url: "https://www.stonybrook.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer systems and machine learning for systems.
@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: Stony Brook University, New York
-    year: Current
-  - course: MSc in Computer System Architecture
+    year: 08/2019 - Current
+  - course: M.Sc. in Computer System Architecture
     institution: Huazhong University of Science and Technology
-    year: 2019
-  - course: BEng in Computer Science and Technology
+    year: 09/2016 - 06/2019
+  - course: B.Eng. in Computer Science and Technology
     institution: Huazhong Agricultural University
-    year: 2016
+    year: 09/2012 - 06/2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +45,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:yifeliu@cs.stonybrook.edu"
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/YifeiCs
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=WNu87vQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Yifei-Liu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
