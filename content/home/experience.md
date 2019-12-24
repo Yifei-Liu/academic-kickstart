@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Department of Computer Science, Stony Brook University"
   company_url = "https://www.cs.stonybrook.edu/"
   location = "Stony Brook, New York"
-  date_start = "2017-01-01"
+  date_start = "2019-09-01"
   date_end = ""
   description = """TA for CSE306 Operating Systems."""
 
