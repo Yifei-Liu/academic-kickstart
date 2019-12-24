@@ -86,7 +86,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "yifeliu [AT] cs [DOT] stonybrook [DOT] edu"
 phone = ""
 
 # Address
@@ -99,7 +99,7 @@ address = {street = "Old Computer Science", city = "Stony Brook", region = "NY",
 coordinates = {latitude = "40.912946", longitude = "-73.122809"}
 
 # Directions for visitors to locate you.
-# directions = ""
+directions = "Room 2207"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
