@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Selected Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "COMAP (Consortium for Mathematics and Its Applications)"
+  organization_url = "https://www.comap.com/undergraduate/contests/index.html"
+  title = "Finalist of Interdisciplinary Contest in Modeling"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2015-04-08"
   date_end = ""
-  description = ""
+  description = "Winning rate: 52/9773 ~0.53%"
+
+#[[item]]
+#  organization = "edX"
+#  organization_url = "https://www.edx.org"
+#  title = "Blockchain Fundamentals"
+#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+#  certificate_url = "https://www.edx.org"
+#  date_start = "2018-03-01"
+#  date_end = ""
+#  description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = " CDGDC (China Academic Degrees and Graduate Education Development Center)"
+  organization_url = "http://gmcm.seu.edu.cn/"
+  title = "First Prize of National Postgraduate Mathematic Contest in Modeling"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2014-12-01"
+  date_end = ""
+  description = "Won best award of this contest, winning rate: 120/4900 ~2.4%"
+
+[[item]]
+  organization = " CSIAM (China Society for Industrial and Applied Mathematics)"
+  organization_url = "http://www.mcm.edu.cn/"
+  title = "First Prize of Contemporary Undergraduate Mathematical Contest in Modeling"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-11-10"
+  date_end = ""
+  description = "Won best award of this contest, winning rate: 293/22233 ~1.3%"
 
 +++
