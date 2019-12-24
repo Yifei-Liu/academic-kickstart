@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yifei Liu, currently a first-year Ph.D. student in Computer Science at Stony Brook University. I am broadly interested in distributed file/storage systems and operating systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to my Ph.D. journey, I obtained Master degree from Huazhong University of Science and Technology and Bachelor degree from Huazhong Agricultural University in 2019 and 2016 respectively.
