@@ -99,14 +99,14 @@ address = {street = "Old Computer Science", city = "Stony Brook", region = "NY",
 coordinates = {latitude = "40.912946", longitude = "-73.122809"}
 
 # Directions for visitors to locate you.
-directions = ""
+# directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+# appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
