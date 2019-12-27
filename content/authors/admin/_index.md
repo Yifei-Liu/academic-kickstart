@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I am Yifei Liu, currently a first-year Ph.D. student in Computer Science at Stony Brook University. I am broadly interested in distributed file/storage systems and operating systems.
+I am Yifei Liu, currently a first-year Ph.D. student (starting from Fall 2019) in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am broadly interested in distributed file/storage systems and operating systems.
 
-Prior to my Ph.D. journey, I obtained Master degree from Huazhong University of Science and Technology and Bachelor degree from Huazhong Agricultural University in 2019 and 2016 respectively.
+Prior to my Ph.D. journey, I was a Master's student and Research Assistant at [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn) (Information Storage Division), [Huazhong University of Science and Technology](http://english.hust.edu.cn) where I conducted research on performance improvement for content-based semantic queries in storage systems.
