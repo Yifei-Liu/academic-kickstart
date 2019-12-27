@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
