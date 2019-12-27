@@ -53,6 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=WNu87vQAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Yifei-Liu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yifei-liu/
