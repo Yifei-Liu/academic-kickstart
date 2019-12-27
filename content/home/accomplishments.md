@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
+  organization = "APWeb-WAIM 2019"
+  organization_url = "http://cfm.uestc.edu.cn/apwebwaim2019/"
+  title = "Best Paper Runner-Up"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-08-02"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Huazhong University of Science and Technology"
   organization_url = "http://english.hust.edu.cn/"
   title = "Outstanding Graduate"
