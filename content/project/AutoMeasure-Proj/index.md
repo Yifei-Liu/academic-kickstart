@@ -4,8 +4,8 @@ summary: Automatic Measurement of Character Parameters of the Rapeseed Plant via
 tags:
 - Image Processing
 - Line Detection
-date: 2015-07-20T00:00:00Z
-
+date: 2015-04-20T00:00:00Z
+#draft: true
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
