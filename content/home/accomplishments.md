@@ -82,7 +82,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = " CSIAM (China Society for Industrial and Applied Mathematics)"
-  organization_url = "http://www.mcm.edu.cn/"
+  organization_url = "http://en.mcm.edu.cn/"
   title = "First Prize of Contemporary Undergraduate Mathematical Contest in Modeling"
   url = ""
   certificate_url = ""
