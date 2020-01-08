@@ -1,5 +1,5 @@
 ---
-title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
+title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD."
 #date: 2019-12-24T16:42:06-05:00
 date: 2015-07-17T00:00:00
 #draft: true

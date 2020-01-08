@@ -1,5 +1,5 @@
 ---
-title: "Analysis and Management to Hash-Based Graph and Rank"
+title: "Analysis and Management to Hash-Based Graph and Rank."
 date: 2019-07-18T00:00:00
 #draft: true
 authors: ["Yangtao Wang", "Yu Liu", "Yifei Liu", "Ke Zhou", "Yujuan Yang", "Jiangfeng Zeng", "Xiaodong Xu", "Zhili Xiao"]

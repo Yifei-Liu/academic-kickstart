@@ -1,5 +1,5 @@
 ---
-title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
+title: "Research of Web Service Recommendation Using Bayesian Network Reasoning."
 date: 2018-07-19T00:00:00
 #draft: true
 
