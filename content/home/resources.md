@@ -15,7 +15,7 @@ weight = 110
 
 +++
 ## Study Materials
-[Operating Systems: Three Easy Pieces (OS Book)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Operating Systems: Three Easy Pieces (OS Book)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-## Ph.D.
-[The Ph.D. Grind](http://pgbovine.net/PhD-memoir.htm)
+## Ph.D. Career
+- [The Ph.D. Grind](http://pgbovine.net/PhD-memoir.htm)
