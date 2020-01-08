@@ -39,6 +39,10 @@
   url = "#accomplishments"
   weight = 50
 
+[[main]]
+  name = "Resources"
+  url = "#resources"
+  weight = 55
 
 [[main]]
   name = "Contact"
