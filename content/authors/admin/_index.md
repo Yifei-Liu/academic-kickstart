@@ -30,13 +30,13 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Stony Brook University, New York
-    year: 
+    year: 2019 - Current
   - course: M.Sc. in Computer System Architecture
     institution: Huazhong University of Science and Technology
-    year: 2019
+    year: 2016 - 2019
   - course: B.Eng. in Computer Science and Technology
     institution: Huazhong Agricultural University
-    year: 2016
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
