@@ -1,5 +1,5 @@
 ---
-title: "A Framework for Image Dark Data Assessment."
+title: "A Framework for Image Dark Data Assessment"
 date: 2019-07-18T00:00:00
 #draft: true
 
