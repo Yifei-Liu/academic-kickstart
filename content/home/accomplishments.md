@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-04-08"
   date_end = ""
-  description = "Winning rate: 52/9773 ~0.53%, See this [Chinese Report](http://news.hzau.edu.cn/2015/0413/41925.shtml) on Wuhan Morning News"
+  description = "Winning rate: 52/9773 ~0.53%, See this [Chinese Report](http://news.hzau.edu.cn/2015/0413/41925.shtml) on Changjiang Daily"
 
 #[[item]]
 #  organization = "edX"

@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Stony Brook, New York"
   date_start = "2019-09-01"
   date_end = ""
-  description = """TA for CSE306 Operating Systems."""
+  description = """TA for CSE306 Operating Systems. (Fall 2019)"""
 
 [[experience]]
   title = "Research Assistant"
