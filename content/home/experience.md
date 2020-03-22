@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """TA for CSE376 Advanced Systems Programming in Unix/C. (Spring 2020)
-  TA for CSE306 Operating Systems. (Fall 2019)"""
+  \nTA for CSE306 Operating Systems. (Fall 2019)"""
 
 [[experience]]
   title = "Research Assistant"
