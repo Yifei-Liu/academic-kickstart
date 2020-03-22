@@ -8,7 +8,7 @@ authors: ["Ke Zhou", "Yangtao Wang", "Yu Liu", "Yujuan Yang", "Yifei Liu", "Guol
 publication_types: ["2"]
 publication: "World Wide Web Journal (WWWJ)"
 
-external_link: "https://link.springer.com/article/10.1007/s11280-020-00779-x"
+url_pdf: "https://link.springer.com/article/10.1007/s11280-020-00779-x"
 
 ---
 
