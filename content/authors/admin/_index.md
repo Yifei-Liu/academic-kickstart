@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 #role: Professor of Artificial Intelligence
-role: Ph.D. student of Computer Science
+role: Ph.D. Student of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,6 @@ education:
     year: 2019 - Current
   - course: M.Sc. in Computer System Architecture
     institution: Huazhong University of Science and Technology
-    url: "http://english.hust.edu.cn/"
     year: 2016 - 2019
   - course: B.Eng. in Computer Science and Technology
     institution: Huazhong Agricultural University
