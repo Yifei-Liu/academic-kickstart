@@ -1,12 +1,14 @@
 ---
-title: "A Framework for Image Dark Data Assessment. (Accepted, To Appear)"
-date: 2020-02-02T19:46:17-05:00
+title: "A Framework for Image Dark Data Assessment."
+date: 2020-02-29T19:46:17-05:00
 #draft: true
 
 authors: ["Ke Zhou", "Yangtao Wang", "Yu Liu", "Yujuan Yang", "Yifei Liu", "Guoliang Li", "Lianli Gao", "Zhili Xiao"]
 
 publication_types: ["2"]
 publication: "World Wide Web Journal (WWWJ)"
+
+url: "https://link.springer.com/article/10.1007/s11280-020-00779-x"
 
 ---
 
