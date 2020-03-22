@@ -32,7 +32,8 @@ education:
     institution: Stony Brook University, New York
     year: 2019 - Current
   - course: M.Sc. in Computer System Architecture
-    institution: [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
+    institution: Huazhong University of Science and Technology
+    url: "http://english.hust.edu.cn/"
     year: 2016 - 2019
   - course: B.Eng. in Computer Science and Technology
     institution: Huazhong Agricultural University
