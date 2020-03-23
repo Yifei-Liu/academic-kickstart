@@ -10,5 +10,7 @@ publication: "Future Generation Computer Systems (FGCS)"
 
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0167739X19302304"
 
+projects: ["DarkData-Proj"]
+
 ---
 

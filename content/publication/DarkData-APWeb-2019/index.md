@@ -11,5 +11,7 @@ publication: "In Proceedings of the 3rd APWeb-WAIM joint conference on Web and B
 
 url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-26072-9_1"
 
+projects: ["DarkData-Proj"]
+
 ---
 

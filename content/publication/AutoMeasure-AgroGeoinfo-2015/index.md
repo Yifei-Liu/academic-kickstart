@@ -13,5 +13,7 @@ publication: "In Proceedings of the 4th International Conference on Agro-Geoinfo
 
 url_pdf: "https://ieeexplore.ieee.org/document/7248122"
 
+projects: ["AutoMeasure-Proj"]
+
 ---
 

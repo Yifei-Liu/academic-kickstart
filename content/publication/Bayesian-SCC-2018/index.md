@@ -10,5 +10,7 @@ publication: "In Proceedings of the 15th International Conference on Services Co
 
 url_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-94376-3_2"
 
+projects: ["BayesianNetwork-Proj"]
+
 ---
 
