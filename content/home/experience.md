@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "Stony Brook, New York"
   date_start = "2019-09-01"
   date_end = ""
-  description = """TA for CSE376 Advanced Systems Programming in Unix/C. (Spring 2020) \n
-  TA for CSE306 Operating Systems. (Fall 2019)"""
+  description = """TA for CSE376 Advanced Systems Programming in Unix/C. (Spring 2020) Instructor: [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/)\n
+  TA for CSE306 Operating Systems. (Fall 2019) Instructor: [Prof. Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/)"""
 
 [[experience]]
   title = "Research Assistant"
