@@ -12,7 +12,7 @@ publication_types: ["1"]
 publication: "In Proceedings of the 4th International Conference on Agro-Geoinformatics (Agro-geoinformatics), Istanbul, Turkey. (Oral)"
 
 #url_pdf: "https://ieeexplore.ieee.org/document/7248122"
-url_custom: [{name = "paper", url = "https://ieeexplore.ieee.org/document/7248122"}]
+url_custom = [{name = "paper", url = "https://ieeexplore.ieee.org/document/7248122"}]
 
 projects: ["AutoMeasure-Proj"]
 
