@@ -15,10 +15,8 @@ publication: "In Proceedings of the 4th International Conference on Agro-Geoinfo
 #url_paper: "https://ieeexplore.ieee.org/document/7248122"
 
 links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
+  - name: Paper
+    url: 'https://ieeexplore.ieee.org/document/7248122'
 
 projects: ["AutoMeasure-Proj"]
 
