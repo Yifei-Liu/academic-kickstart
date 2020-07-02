@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis. (Accepted, To Appear)"
+title: "Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis"
 subtitle: ""
 summary: ""
 authors: ["Yu Liu", "Hong Jiang", "Yangtao Wang", "Ke Zhou", "Yifei Liu", "Li Liu"]
