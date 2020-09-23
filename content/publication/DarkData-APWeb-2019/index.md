@@ -7,7 +7,7 @@ authors: ["Yu Liu", "Yangtao Wang", "Ke Zhou", "Yujuan Yang", "Yifei Liu", "Jing
 
 
 publication_types: ["1"]
-publication: "In Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (APWeb-WAIM), Chengdu, China. (Best Paper Runner-Up)"
+publication: "In Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (APWeb-WAIM), Chengdu, China. <p style="color:red">(Best Paper Runner-Up)</p>"
 
 url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-26072-9_1"
 
