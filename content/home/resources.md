@@ -14,7 +14,7 @@ title = "Resources"
 weight = 110
 
 +++
-To know how to criticize is good, to know how to create is better. -- Henri Poincaré
+<i>To know how to criticize is good, to know how to create is better. -- Henri Poincaré</i>
 ## Study Materials
 - [Operating Systems: Three Easy Pieces (OS Book)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
