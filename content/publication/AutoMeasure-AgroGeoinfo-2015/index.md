@@ -9,7 +9,7 @@ authors: ["Pujuan Shi", "Yifei Liu", "Yihang Fang", "Chengda Lin", "Ruifang Zhai
 
 
 publication_types: ["1"]
-publication: "In Proceedings of the 4th International Conference on Agro-Geoinformatics (Agro-geoinformatics), Istanbul, Turkey. (Oral)"
+publication: "4th International Conference on Agro-Geoinformatics (Agro-geoinformatics 2015), Istanbul, Turkey. (Oral)"
 
 #url_paper: "https://ieeexplore.ieee.org/document/7248122"
 #url_pdf: "https://ieeexplore.ieee.org/document/7248122"

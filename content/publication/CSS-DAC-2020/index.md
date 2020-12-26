@@ -14,7 +14,7 @@ draft: false
 
 
 publication_types: ["1"]
-publication: "In Proceedings of the 57th Design Automation Conference (DAC), San Francisco, CA."
+publication: "57th ACM/EDAC/IEEE Design Automation Conference (DAC 2020), San Francisco, CA."
 
 links:
   - name: Link
