@@ -40,8 +40,8 @@
   weight = 50
 
 [[main]]
-  name = "Resources"
-  url = "#resources"
+  name = "Miscellaneous"
+  url = "#miscellaneous"
   weight = 55
 
 [[main]]
