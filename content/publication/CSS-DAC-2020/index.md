@@ -16,6 +16,13 @@ draft: false
 publication_types: ["1"]
 publication: "In Proceedings of the 57th Design Automation Conference (DAC), San Francisco, CA."
 
+links:
+  - name: Link
+    url: 'https://dl.acm.org/doi/10.5555/3437539.3437557'
+  - name: Venue
+    url: 'https://www.dac.com/'
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

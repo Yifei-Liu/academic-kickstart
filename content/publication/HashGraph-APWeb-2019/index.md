@@ -7,7 +7,13 @@ authors: ["Yangtao Wang", "Yu Liu", "Yifei Liu", "Ke Zhou", "Yujuan Yang", "Jian
 publication_types: ["1"]
 publication: "In Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (APWeb-WAIM), Chengdu, China."
 
-url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-26072-9_22"
+#url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-26072-9_22"
+
+links:
+  - name: Link
+    url: 'https://link.springer.com/chapter/10.1007/978-3-030-26072-9_22'
+  - name: Venue
+    url: 'https://cfm.uestc.edu.cn/apwebwaim2019/'
 
 projects: ["DarkData-Proj"]
 
