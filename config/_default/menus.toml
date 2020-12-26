@@ -49,10 +49,6 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = "MyWidget"
-  url = "#mywidget"
-  weight = 65
 
 [[main]]
   name = "CV"
