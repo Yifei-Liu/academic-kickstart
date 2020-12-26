@@ -50,6 +50,11 @@
   weight = 60
 
 [[main]]
+  name = "MyWidget"
+  url = "#mywidget"
+  weight = 65
+
+[[main]]
   name = "CV"
   url = "files/Yifei_Liu_CV.pdf"
   weight = 70
