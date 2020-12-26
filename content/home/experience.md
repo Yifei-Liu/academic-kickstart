@@ -55,6 +55,8 @@ date_format = "Jan 2006"
   date_start = "2015-12-28"
   date_end = "2016-08-30"
   description = """– Predicted disk failures using machine learning in cloud systems."""
-  image = "images/tencent-logo.png"
+
+[header]
+image = "headers/tencent-logo.png"
 
 +++
