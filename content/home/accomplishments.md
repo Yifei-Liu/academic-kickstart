@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "COMAP (Consortium for Mathematics and Its Applications)"
   organization_url = "https://www.comap.com/undergraduate/contests/index.html"
-  title = "Finalist of Interdisciplinary Contest in Modeling"
+  title = "Finalist, Interdisciplinary Contest in Modeling"
   url = ""
   certificate_url = ""
   date_start = "2015-04-08"
