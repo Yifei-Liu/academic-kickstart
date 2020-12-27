@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "<img src='img/tencent-logo.png' alt='Flowers in Chania'> Backend Developer Intern"
+  title = "<img src='img/tencent-logo.png' alt='Tencent' width='500' height='200'> Backend Developer Intern"
   company = "Tencent"
   company_url = "https://www.tencent.com/en-us/"
   location = "Shenzhen, Guangdong, China"
