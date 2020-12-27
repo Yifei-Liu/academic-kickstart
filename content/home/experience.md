@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  ![Example image](/static/img/headers/tencent-logo.png)
+  [/static/img/headers/tencent-logo.png]
   title = "Backend Developer Intern"
   company = "Tencent"
   company_url = "https://www.tencent.com/en-us/"
