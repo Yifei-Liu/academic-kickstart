@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "Wuhan, Hubei, China"
   date_start = "2016-09-01"
   date_end = "2019-06-20"
-  description = """– Built a metadata system to achieve high-precision and low-latency semantic queries in storage systems."""
+  description = """– Built a metadata system to achieve high-precision and low-latency content-based semantic queries in storage systems."""
 
 
 [[experience]]
