@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Teaching Assistant"
+  title = "<img src='img/sbulogo.png' alt='SBU' width='200' height='80'> Teaching Assistant"
   company = "Department of Computer Science, Stony Brook University"
   company_url = "https://www.cs.stonybrook.edu/"
   location = "Stony Brook, New York"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "<img src='img/tencentlogo.png' alt='Tencent' width='200' height='80'> Backend Developer Intern"
+  title = "<img src='img/tencentlogo.png' alt='Tencent' width='200' height='80'> <br /> Backend Developer Intern"
   company = "Tencent"
   company_url = "https://www.tencent.com/en-us/"
   location = "Shenzhen, Guangdong, China"
