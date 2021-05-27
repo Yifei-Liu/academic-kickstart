@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   location = "Stony Brook, New York"
   date_start = "2019-09-01"
   date_end = "2020-05-24"
-  description = """– [CSE376 Advanced Systems Programming in Unix/C](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE376) (Spring 2020, Spring 2021) Instructor: [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/)\n
-  – [CSE306 Operating Systems](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE306) (Fall 2019) Instructor: [Prof. Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/)"""
+  description = """– [CSE376 Advanced Systems Programming in Unix/C](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE376) (S'20, S'21) Instructor: [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/)\n
+  – [CSE306 Operating Systems](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE306) (F'19) Instructor: [Prof. Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/)"""
 
 [[experience]]
   title = "<img src='img/wnlo_logo.png' alt='WNLO' width='150' height='60'> <br /> Research Assistant"
