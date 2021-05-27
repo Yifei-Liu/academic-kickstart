@@ -17,4 +17,8 @@ weight = 110
 <i>To know how to criticize is good, to know how to create is better. -- Henri Poincaré</i>
 ## Useful Links
 - [Operating Systems: Three Easy Pieces (OS Book)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-
+## Linux
+- [The Linux Kernel Archives](https://www.kernel.org/)
+- [Linux List archives](https://lore.kernel.org/lists.html)
+- [Linux News](https://lwn.net/)
+- [Linux Kernel Mailing List](https://lkml.org/)
