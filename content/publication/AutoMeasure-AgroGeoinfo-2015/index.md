@@ -4,7 +4,7 @@ title: "A new line detection algorithm - Automatic measurement of character para
 date: 2015-07-17T00:00:00
 #draft: true
 
-authors: ["Pujuan Shi", "Yifei Liu", "Yihang Fang", "Chengda Lin", "Ruifang Zhai"]
+authors: ["Pujuan Shi", "Yihang Fang", "Chengda Lin", "Yifei Liu", "Ruifang Zhai"]
 
 
 
