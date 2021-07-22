@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis"
+title: "Model-Checking Support for File System Development"
 subtitle: ""
 summary: ""
-authors: ["Yu Liu", "Hong Jiang", "Yangtao Wang", "Ke Zhou", "Yifei Liu", "Li Liu"]
+authors: ["Wei Su", "Yifei Liu", "Gomathi Ganesan", "Gerard Holzmann", "Scott Smolka", "Erez Zadok", "Geoff Kuenning"]
 tags: []
 categories: []
 date: 2020-07-21T23:59:59-05:00
