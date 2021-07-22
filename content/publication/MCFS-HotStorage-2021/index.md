@@ -8,7 +8,7 @@ authors: ["Wei Su", "Yifei Liu", "Gomathi Ganesan", "Gerard Holzmann", "Scott Sm
 tags: []
 categories: []
 date: 2021-07-20T23:59:59-05:00
-lastmod: 2021-07-20T00:05:31-05:00
+#lastmod: 2021-07-20T00:05:31-05:00
 featured: false
 draft: false
 
@@ -36,5 +36,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+#projects: []
 ---
