@@ -29,8 +29,9 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "<img src='img/sbu_logo.png' alt='SBU' width='200' height='80'> <br /> Teaching Assistant"
+  title = "Teaching Assistant"
   company = "Department of Computer Science, Stony Brook University"
+  company_logo = "img/sbu_logo.png"
   company_url = "https://www.cs.stonybrook.edu/"
   location = "Stony Brook, New York"
   date_start = "2019-09-01"
