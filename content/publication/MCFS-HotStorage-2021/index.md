@@ -21,6 +21,8 @@ links:
     url: 'https://dl.acm.org/doi/10.1145/3465332.3470878'
   - name: Venue
     url: 'https://www.hotstorage.org/2021/'
+  - name: PDF
+    url: 'https://www.fsl.cs.stonybrook.edu/docs/mcfs/mcfs-hotstorage21.pdf'
 
 
 # Featured image
