@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "<img src='img/fsl_logo.gif' alt='FSL' width='60' height='22.5'> <br /> Research Assistant"
+  title = "<img src='img/fsl_logo.gif' alt='FSL' width='67' height='25'> <br /> Research Assistant"
   company = "File systems and Storage Lab (FSL), CS Department, Stony Brook University"
   company_url = "https://www.fsl.cs.stonybrook.edu/"
   location = "Stony Brook, New York"
