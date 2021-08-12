@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   – [CSE306 Operating Systems](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE306) (F'19) Instructor: [Prof. Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/)"""
 
 [[experience]]
-  title = "<img src='img/wnlo_logo.png' alt='WNLO' width='150' height='60'> <br /> Research Assistant"
+  title = "<img src='img/wnlo_logo.png' alt='WNLO' width='120' height='48'> <br /> Research Assistant"
   company = "Wuhan National Laboratory for Optoelectronics"
   company_url = "http://english.wnlo.hust.edu.cn/"
   location = "Wuhan, Hubei, China"
