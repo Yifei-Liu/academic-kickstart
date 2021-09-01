@@ -26,6 +26,6 @@ url_video: ""
 slides: ""
 #tags: ["image-processing", "line-detection"]
 ---
-Character parameters of crops like plant height and branch length are important to production and mechanized harvest. We proposed a methodology that detects line segments in the plant images to measure rapeseed plants' character parameters automatically. Our image line detection utilized the Line Segment Detector (Von Gioi et al., 2008), a fast, accurate, and state-of-the-art algorithm. For eliminating the noisy and discontinuous line segments, we applied several techniques based on the geometric features of extracted lines. The experiment shows that the error rate of the results is as low as 1.25% with inexpensive computing resources, which can meet the actual demands of agriculture better.
+Character parameters of crops like plant height and branch length are important to production and mechanized harvest. We proposed a methodology that detects line segments in the plant images to measure rapeseed plants' character parameters automatically. Our image line detection utilized the Line Segment Detector (Von Gioi et al., 2008), a fast, accurate, and state-of-the-art line detection algorithm. For eliminating the noisy and discontinuous line segments, we applied several techniques based on the geometric features of extracted lines. The experiment shows that the error rate of the results is as low as 1.25% with inexpensive computing resources, which can meet the actual demands of agriculture better.
 
-My role: I designed and implemented all the algorithms and experiments for this project.
+<b>My role: I designed and implemented all the algorithms and experiments for this project.</b>
