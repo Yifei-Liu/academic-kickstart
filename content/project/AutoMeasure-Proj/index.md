@@ -1,6 +1,6 @@
 ---
-title: Line Detection for Plant Images
-summary: Automatic Measurement of Character Parameters of the Rapeseed Plant via Image Line Detection
+title: Line Segment Detection for Rapeseed Plant Images
+summary: Automatic Measurement for Character Parameters of the Rapeseed Plant via Image Line Detection
 tags:
 - Image Processing
 - Line Detection

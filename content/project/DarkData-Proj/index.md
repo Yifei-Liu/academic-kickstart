@@ -1,6 +1,6 @@
 ---
-title: Dark Data Assessment
-summary: Semantic Hash Rank of Graphs for Assessing Image "Dark Data"
+title: Image Dark Data Assessment
+summary: Graph-based Semantic Hash Ranking for Assessing Image "Dark Data"
 tags:
 - Semantic Hash
 - Dark Data

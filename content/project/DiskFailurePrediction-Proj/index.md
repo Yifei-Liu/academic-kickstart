@@ -1,6 +1,6 @@
 ---
 title: Disk Failure Prediction
-summary: Disk Failure Prediction for Tencent Cloud via Machine Learning (Internship at Tencent)
+summary: Predicting disk failures in Tencent Cloud via Machine Learning (Internship at Tencent)
 tags:
 - Disk Failure Prediction
 - Machine Learning

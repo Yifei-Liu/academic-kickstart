@@ -1,10 +1,10 @@
 ---
 title: SwiftGraph
-summary: SwiftGraph is a system middleware for enabling accurate and fast semantic queries in storage systems through deep hashing
+summary: A system middleware for enabling accurate and efficient content-based semantic queries in storage systems through deep learning hash
 tags:
 - Storage Systems
 - Semantic Query
-- Deep Learning
+- Deep Learning Hash
 date: 2019-09-20T00:00:00Z
 #draft: true
 # Optional external URL for project (replaces project detail page).
@@ -27,4 +27,6 @@ url_video: ""
 slides: ""
 #tags: ["image-processing", "line-detection"]
 ---
-Existing storage systems with simple metadata and hierarchical directory tree fail to meet the requirements of content-based queries (i.e., semantic queries) like finding semantically similar images with a specific image file. Therefore, we design and implement SwiftGraph which is a system middleware that supports semantic metadata generated from deep learning hash. SwiftGraph applies an effective graph structure to organize the semantic hash codes and therefore provides fast content-based query interfaces. The performance evaluation on the different datasets demonstrates that the query precision and efficiency outrun other metadata search paradigms.
+Existing storage systems apply simple metadata and hierarchical directory trees, which fail to meet the requirements of content-based queries (i.e., semantic queries) like finding semantically similar images with one specific image file. Therefore, we designed and implemented SwiftGraph, a system middleware that supported semantic metadata generated from deep learning hash. SwiftGraph applied an effective graph structure to organize the semantic hash code and provided fast content-based query interfaces. The performance evaluation on the different datasets demonstrated that the query precision and efficiency of SwiftGraph outran other searchable metadata paradigms.
+
+<b>My role: I was the first leader of the SwiftGraph project and completed most of the work for the system. Finally, thanks to my collaborators and mentors, the extended version of SwiftGraph, CSS, was accepted to DAC'20.</b>
