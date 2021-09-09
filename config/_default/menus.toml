@@ -14,10 +14,10 @@
 #   url = "#posts"
 #   weight = 20
 
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 20
+#[[main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 20
 
 [[main]]
   name = "Projects"
