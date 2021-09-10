@@ -28,7 +28,7 @@ slides: ""
 #tags: ["image-processing", "line-detection"]
 ---
 Developing and maintaining a file system is time-consuming and complex. Yet even mature 
-file systems, they suffer repeated bugs. File system bugs have serious consequences
+file systems suffer repeated bugs. File system bugs have serious consequences
 such as data loss and system crashes. To address these challenges, we developed MCFS,
 a model-checking framework for file systems. We used Spin model checker to perform
 state-space exploration that needs to save/restore file system state. Therefore, we
