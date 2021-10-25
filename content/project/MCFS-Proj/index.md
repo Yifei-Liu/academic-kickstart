@@ -30,7 +30,8 @@ slides: ""
 Developing and maintaining a file system is time-consuming and complex. Yet even mature 
 file systems suffer repeated bugs. File system bugs have serious consequences
 such as data loss and system crashes. To address these challenges, we developed MCFS,
-a model-checking framework for file systems. We used Spin model checker to perform
+a model-checking framework to detect file system bugs/defects and 
+facilitate file system development. We used Spin model checker to perform
 state-space exploration that needs to save/restore file system state. Therefore, we
 developed two in-memory file systems, VeriFS1 and VeriFS2, with checkpoint/restore
 API to capture and restore the full file system state via ioctl. MCFS 
