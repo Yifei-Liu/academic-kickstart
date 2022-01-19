@@ -1,26 +1,30 @@
-+++
-# Accomplishments widget.
-widget = "news"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
 
-title = "News"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+# Order that this section appears on the page.
+weight: 1
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[item]]
-  title = "Passed Research Proficiency Examination"
-  date_start = "2021-01-07"
+# Section title
+title: News
 
+# Section subtitle
+subtitle:
 
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color: 'navy'
+    text_color_light: true
+---
 
-+++
+<ul>
+  <li>Passed the Research Proficiency Examination and Advanced to Candidacy</li>
+</ul>  
