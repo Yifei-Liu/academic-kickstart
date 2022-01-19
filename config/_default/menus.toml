@@ -14,6 +14,11 @@
 #   url = "#posts"
 #   weight = 20
 
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 20
+
 #[[main]]
 #  name = "Experience"
 #  url = "#experience"
