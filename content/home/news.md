@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 25
 
 # Section title
 title: News
@@ -21,10 +21,10 @@ design:
   columns: "1"
   # Use a dark navy background with light text.
   background:
-    color: 'navy'
-    text_color_light: true
+    #color: 'navy'
+    #text_color_light: true
 ---
 
 <ul>
-  <li>Passed the Research Proficiency Examination and Advanced to Candidacy</li>
+  <li><b>[Jan. 2022]</b> Passed the Research Proficiency Examination and Advanced to Candidacy</li>
 </ul>  
