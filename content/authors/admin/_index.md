@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 #role: Professor of Artificial Intelligence
-role: Ph.D. Student of Computer Science
+role: Ph.D. Candidate of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -79,8 +79,6 @@ user_groups:
 - Visitors
 ---
 
-I am Yifei Liu, a third-year Ph.D. student (from F'19) in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/) advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). My research interests include file/storage systems and operating systems. Also, I am excited and motivated by the prospect of applying formal methods, machine learning, and heuristic algorithms to optimizing and understanding computer systems.
+I am Yifei Liu, a third-year Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/) advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). My research interests include file/storage systems and operating systems. Also, I am excited and motivated by the prospect of applying formal methods, machine learning, and heuristic algorithms to optimizing and understanding computer systems.
 
 Prior to Stony Brook, I was a Master's student and Research Assistant at [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn) (Information Storage Division) advised by [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/en/index.htm) in [Huazhong University of Science and Technology](http://english.hust.edu.cn), where I worked on performance improvement for content-based semantic queries in storage systems.
-
-<b>I am currently seeking an SDE or research internship in the summer of 2022.</b>
