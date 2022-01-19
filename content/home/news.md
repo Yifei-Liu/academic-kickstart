@@ -4,7 +4,7 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 25
@@ -19,6 +19,8 @@ subtitle:
 design:
   # Use a 1-column layout
   columns: "1"
+  
+  view: 1
   # Use a dark navy background with light text.
   background:
     #color: 'navy'
