@@ -19,19 +19,19 @@ organizations:
   url: "https://www.stonybrook.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer systems and machine learning for systems.
+bio: My research interests include file and storage systems and operating systems.
 
 interests:
 - File/Storage Systems
 - Operating Systems
-- Machine Learning for Systems
+- Model Checking and Software Testing
 
 education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Stony Brook University, New York
     year: 2019 - Current
-  - course: M.Sc. in Computer System Architecture
+  - course: M.Eng. in Computer System Architecture
     institution: Huazhong University of Science and Technology
     year: 2016 - 2019
   - course: B.Eng. in Computer Science and Technology
@@ -79,6 +79,6 @@ user_groups:
 - Visitors
 ---
 
-I am Yifei Liu, a third-year Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/) advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). My research interests include file/storage systems and operating systems. Also, I am excited and motivated by the prospect of applying formal methods, machine learning, and heuristic algorithms to optimizing and understanding computer systems.
+I am Yifei Liu, a rising fifth-year Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/) advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). I am broadly interested in file/storage systems and operating systems. My recent works seek to test kernel file systems more easily and thoroughly by model checking and other related techniques.
 
-Prior to Stony Brook, I was a Master's student and Research Assistant at [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn) (Information Storage Division) advised by [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/en/index.htm) in [Huazhong University of Science and Technology](http://english.hust.edu.cn), where I worked on performance improvement for content-based semantic queries in storage systems.
+Before Stony Brook, I was a Master's student and research assistant at [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn) advised by [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/en/index.htm) at [Huazhong University of Science and Technology](http://english.hust.edu.cn), where I worked on performance improvement for content-based semantic queries in storage systems.
