@@ -24,7 +24,7 @@ bio: My research interests include file and storage systems and operating system
 interests:
 - File/Storage Systems
 - Operating Systems
-- Model Checking and Software Testing
+- Model Checking and Testing
 
 education:
   courses:

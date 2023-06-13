@@ -35,7 +35,7 @@ design:
   <li><b>[May  2022]</b>  I started the summer internship at <a href="https://samsungmsl.com/">Memory Solutions Lab, Samsung Semiconductor</a>.</li>
   <li><b>[Jan. 2022]</b>  I passed the Research Proficiency Examination and advanced to candidacy.</li>
   <li><b>[Jun. 2021]</b>  One paper on model checking file systems got accepted by <a href="https://www.hotstorage.org/2021/">HotStorage 2021</a>.</li>
-  <li><b>[Feb. 2020]</b>  One paper got accepted by <a href="https://www.dac.com/About/Conference-Archive/57th-DAC-2020/">DAC 2020</a>.</li>
+  <li><b>[Feb. 2020]</b>  One paper on content sifting storage got accepted by <a href="https://www.dac.com/About/Conference-Archive/57th-DAC-2020/">DAC 2020</a>.</li>
 <!--
   <li><b>[Jan. 2020]</b>  I joined <a href="https://www.fsl.cs.stonybrook.edu/">File systems and Storage Lab (FSL)</a>.</li>
 -->
