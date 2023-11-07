@@ -37,4 +37,4 @@ developed two in-memory file systems, VeriFS1 and VeriFS2, with checkpoint/resto
 API to capture and restore the full file system state via ioctl. MCFS 
 found real bugs while we were developing VeriFS. 
 
-<b>My role: I joined this project in Jun. 2020 and is now leading this project since Sep. 2021. My labmate previously led this project.</b>
+<!-- <b>My role: I joined this project in Jun. 2020 and is now leading this project since Sep. 2021. My labmate previously led this project.</b> -->

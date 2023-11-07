@@ -29,4 +29,4 @@ slides: ""
 ---
 Dark data are some existing data that the developers or users are unaware of their existence or value, or do not know how to extract value from them. To address the emerging dark data challenge, we proposed a framework for assessing the value of image dark data by using a novel semantic hash ranking (SHR) algorithm. This framework ranked the value of the image dark data, and therefore it helped discover "important images" in the massive image dataset. The evaluation results had demonstrated the performance and validity of our methodology.
 
-<b>My role: I wrote part of the code to implement the SHR algorithm and evaluate SHR by comparing different relevant techniques. This project had a strong relationship with the SwiftGraph project I led.</b>
+<!-- <b>My role: I wrote part of the code to implement the SHR algorithm and evaluate SHR by comparing different relevant techniques. This project had a strong relationship with the SwiftGraph project I led.</b> -->
