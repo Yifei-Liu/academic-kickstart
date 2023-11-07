@@ -1,28 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Model-Checking Support for File System Development"
+title: "Input and Output Coverage Needed in File System Testing"
 subtitle: ""
 summary: ""
-authors: ["Wei Su", "Yifei Liu", "Gomathi Ganesan", "Gerard Holzmann", "Scott Smolka", "Erez Zadok", "Geoff Kuenning"]
+authors: ["Yifei Liu", "Gautam Ahuja", "Geoff Kuenning", "Scott Smolka", "Erez Zadok"]
 tags: []
 categories: []
-date: 2021-07-20T23:59:59-05:00
+date: 2023-07-09T23:59:59-05:00
 #lastmod: 2021-07-20T00:05:31-05:00
 featured: false
 draft: false
 
 
 publication_types: ["1"]
-publication: "13th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage 2021), Virtual."
+publication: "15th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage 2023), Boston, MA."
 
 links:
   - name: PDF
-    url: "files/MCFS-HotStorage2021.pdf"
+    url: "files/IOCov-HotStorage2023.pdf"
   - name: ACM
-    url: 'https://dl.acm.org/doi/10.1145/3465332.3470878'
+    url: 'https://dl.acm.org/doi/10.1145/3599691.3603405'
   - name: Venue
-    url: 'https://www.hotstorage.org/2021/'
+    url: 'https://www.hotstorage.org/2023/'
   
 
 

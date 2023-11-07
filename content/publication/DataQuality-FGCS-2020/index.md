@@ -13,7 +13,7 @@ publication: "Future Generation Computer Systems (FGCS)"
 links:
   - name: PDF
     url: "files/SDQA-FGCS2020.pdf"
-  - name: Link
+  - name: ScienceDirect
     url: 'https://www.sciencedirect.com/science/article/pii/S0167739X19302304'
 
 projects: ["DarkData-Proj"]
