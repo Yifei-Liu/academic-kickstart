@@ -15,6 +15,8 @@ publication: "4th International Conference on Agro-Geoinformatics (Agro-geoinfor
 #url_pdf: "https://ieeexplore.ieee.org/document/7248122"
 
 links:
+  - name: PDF
+    url: "files/Rapeseed-LSD-Agro-geoinformatics2015.pdf"
   - name: Link
     url: 'https://ieeexplore.ieee.org/document/7248122'
   - name: Venue

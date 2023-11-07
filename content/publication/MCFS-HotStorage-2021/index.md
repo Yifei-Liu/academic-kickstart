@@ -17,12 +17,13 @@ publication_types: ["1"]
 publication: "13th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage 2021), Virtual."
 
 links:
+  - name: PDF
+    url: "files/MCFS-HotStorage2021.pdf"
   - name: Link
     url: 'https://dl.acm.org/doi/10.1145/3465332.3470878'
   - name: Venue
     url: 'https://www.hotstorage.org/2021/'
-  - name: PDF
-    url: 'https://www.fsl.cs.stonybrook.edu/docs/mcfs/mcfs-hotstorage21.pdf'
+  
 
 
 # Featured image

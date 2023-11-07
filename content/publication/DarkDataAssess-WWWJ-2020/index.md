@@ -9,6 +9,8 @@ publication_types: ["2"]
 publication: "World Wide Web"
 
 links:
+  - name: PDF
+    url: "files/DarkDataAssessment-WWWJ2020.pdf"
   - name: Link
     url: 'https://link.springer.com/article/10.1007/s11280-020-00779-x'
 

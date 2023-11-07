@@ -11,6 +11,8 @@ publication: "15th International Conference on Services Computing (SCC 2018), Se
 #url_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-94376-3_2"
 
 links:
+  - name: PDF
+    url: "files/WSR-BNR-SCC2018.pdf"
   - name: Link
     url: 'https://link.springer.com/chapter/10.1007/978-3-319-94376-3_2'
   - name: Venue
