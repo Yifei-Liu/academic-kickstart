@@ -21,6 +21,8 @@ links:
     url: 'https://ieeexplore.ieee.org/document/7248122'
   - name: Venue
     url: 'http://agro-geoinformatics.org/'
+  - name: Code
+    url: 'https://github.com/Yifei-Liu/AutoMeasure_LSD'
 
 projects: ["AutoMeasure-Proj"]
 

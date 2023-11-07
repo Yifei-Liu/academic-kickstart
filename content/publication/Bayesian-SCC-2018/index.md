@@ -17,6 +17,8 @@ links:
     url: 'https://link.springer.com/chapter/10.1007/978-3-319-94376-3_2'
   - name: Venue
     url: 'http://thescc.org/2018/index.html'
+  - name: Code
+    url: 'https://github.com/Yifei-Liu/BayesianNetworkReasoning'
 
 projects: ["BayesianNetwork-Proj"]
 
