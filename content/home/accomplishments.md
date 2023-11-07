@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-04-08"
   date_end = ""
-  description = "Winning rate: 52/9773 ~0.53%, See the [Chinese report](http://news.hzau.edu.cn/2015/0413/41925.shtml) on this award featured in Changjiang Daily"
+  description = "Award rate: 52/9773 ~0.53%, see the [report (in Chinese)](http://news.hzau.edu.cn/2015/0413/41925.shtml) on this award, featured in the Changjiang Daily"
 
 #[[item]]
 #  organization = "edX"
@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
-  description = "Won highest award of the contest, winning rate: 120/4900 ~2.4%"
+  description = "Won highest award of the contest, award rate: 120/4900 ~2.4%"
 
 [[item]]
   organization = " CSIAM (China Society for Industrial and Applied Mathematics)"
@@ -88,6 +88,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-11-10"
   date_end = ""
-  description = "Won highest award of the contest, winning rate: 293/22233 ~1.3%"
+  description = "Won highest award of the contest, award rate: 293/22233 ~1.3%"
 
 +++
