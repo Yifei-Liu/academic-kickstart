@@ -14,7 +14,7 @@ draft: false
 
 
 publication_types: ["1"]
-publication: "31st International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS 2023), Boston, MA."
+publication: "31st International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS 2023), Stony Brook, NY."
 
 links:
   - name: PDF
