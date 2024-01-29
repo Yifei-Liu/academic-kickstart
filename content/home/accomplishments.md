@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
+  organization = "USENIX"
+  organization_url = "https://www.usenix.org/conference/fast24"
+  title = "FAST '24 Student Travel Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-01-24"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "APWeb-WAIM 2019"
   organization_url = "http://cfm.uestc.edu.cn/apwebwaim2019/"
   title = "Best Paper Runner-Up"
