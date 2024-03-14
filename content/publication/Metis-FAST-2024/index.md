@@ -23,8 +23,14 @@ links:
     url: 'https://www.usenix.org/conference/fast24/presentation/liu-yifei'
   - name: Venue
     url: 'https://www.usenix.org/conference/fast24/'
-  
-
+  - name: Slides
+    url: "files/Metis-FAST2024-Slides.pdf"
+  - name: Poster
+    url: "files/Metis-FAST2024-Poster.pdf"
+  - name: Code
+    url: 'https://github.com/sbu-fsl/Metis'
+  - name: Feature on Chameleon Cloud
+    url: 'https://www.chameleoncloud.org/blog/2024/02/27/metis-unleashed-a-new-dawn-for-file-system-integrity/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
