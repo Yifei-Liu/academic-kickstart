@@ -24,7 +24,7 @@ links:
   - name: Venue
     url: 'https://www.hotstorage.org/2023/'
   - name: Slides
-    url: "files/IOCov-HotStorage2023-Slides.pdf"
+    url: "files/Slides-IOCov-HotStorage2023.pdf"
 
 
 # Featured image

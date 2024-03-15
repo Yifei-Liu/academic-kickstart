@@ -24,9 +24,9 @@ links:
   - name: Venue
     url: 'https://www.usenix.org/conference/fast24/'
   - name: Slides
-    url: "files/Metis-FAST2024-Slides.pdf"
+    url: "files/Slides-Metis-FAST2024.pdf"
   - name: Poster
-    url: "files/Metis-FAST2024-Poster.pdf"
+    url: "files/Poster-Metis-FAST2024.pdf"
   - name: Code
     url: 'https://github.com/sbu-fsl/Metis'
   - name: Feature on Chameleon Cloud
