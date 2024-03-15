@@ -1,5 +1,5 @@
 ---
-title: Line Segment Detection for Rapeseed Plant Images
+title: Line Segment Detection
 summary: Automatic Measurement for Character Parameters of the Rapeseed Plant via Image Line Detection
 tags:
 - Image Processing
