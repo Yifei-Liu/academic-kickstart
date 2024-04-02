@@ -17,7 +17,7 @@ publication_types: ["1"]
 publication: "22nd USENIX Conference on File and Storage Technologies (FAST 2024), Santa Clara, CA."
 
 # link order: 
-# (Project), PDF, BibTex, USENIX/ACM/IEEE, Venue (if applicable), Code, Slides, Video, Poster, Feature/Press/Media
+# (Project), PDF, BibTex, Erratum, USENIX/ACM/IEEE, Venue (if applicable), Code, Slides, Video, Poster, Feature/Press/Media
 
 links:
   - name: PDF

@@ -14,6 +14,8 @@ publication: '3rd APWeb-WAIM joint conference on Web and Big Data (APWeb-WAIM 20
 links:
   - name: PDF
     url: "files/DarkDataAssess-APWEB-WAIM2019.pdf"
+  - name: BibTeX
+    url: "files/bib/apweb19darkda.txt"
   - name: Erratum
     url: "files/Erratum-DarkDataAssess-APWEB-WAIM2019.pdf"
   - name: Springer

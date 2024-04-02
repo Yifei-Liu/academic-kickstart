@@ -13,6 +13,8 @@ publication: "Future Generation Computer Systems (FGCS)"
 links:
   - name: PDF
     url: "files/SDQA-FGCS2020.pdf"
+  - name: BibTeX
+    url: "files/bib/fgcs20sqda.txt"
   - name: Elsevier
     url: 'https://www.sciencedirect.com/science/article/pii/S0167739X19302304'
 

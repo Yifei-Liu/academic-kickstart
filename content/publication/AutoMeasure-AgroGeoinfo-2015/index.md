@@ -17,6 +17,8 @@ publication: "4th International Conference on Agro-Geoinformatics (Agro-geoinfor
 links:
   - name: PDF
     url: "files/Rapeseed-LSD-Agro-geoinformatics2015.pdf"
+  - name: BibTeX
+    url: "files/bib/argogeo15lsd.txt"
   - name: IEEE
     url: 'https://ieeexplore.ieee.org/document/7248122'
   - name: Venue

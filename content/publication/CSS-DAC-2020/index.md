@@ -19,6 +19,8 @@ publication: "57th ACM/EDAC/IEEE Design Automation Conference (DAC 2020), San Fr
 links:
   - name: PDF
     url: "files/CSS-DAC2020.pdf"
+  - name: BibTeX
+    url: "files/bib/dac20css.txt"
   - name: ACM
     url: 'https://dl.acm.org/doi/10.5555/3437539.3437557'
   - name: Venue
