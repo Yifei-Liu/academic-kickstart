@@ -1,0 +1,11 @@
+@INPROCEEDINGS{dac20css,
+  AUTHOR =       "Yu Liu and Hong Jiang and Yangtao Wang and Ke Zhou and Yifei Liu and Li Liu",
+  TITLE =        "Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis",
+  BOOKTITLE =    "Proceedings of the 57th {ACM/IEEE} Design Automation Conference (DAC '20)",
+  MONTH =        "July",
+  YEAR =         "2020",
+  PAGES =        "1--6",
+  ADDRESS =      "San Francisco, CA",
+  PUBLISHER =    "IEEE",
+  DOI =          "10.1109/DAC18072.2020.9218738",
+}

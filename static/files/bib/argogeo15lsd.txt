@@ -1,0 +1,11 @@
+@INPROCEEDINGS{argogeo15lsd,
+  AUTHOR =       "Pujuan Shi and Yihang Fang and Chengda Lin and Yifei Liu and Ruifang Zhai",
+  TITLE =        "A New Line Detection Algorithm - Automatic Measurement of Character Parameter of Rapeseed Plant by LSD",
+  BOOKTITLE =    "Proceedings of the Fourth International Conference on Agro-Geoinformatics (Agro-geoinformatics '15)",
+  MONTH =        "July",
+  YEAR =         "2015",
+  PAGES =        "257--262",
+  ADDRESS =      "Istanbul, Turkey",
+  PUBLISHER =    "IEEE",
+  DOI =          "10.1109/Agro-Geoinformatics.2015.7248122",
+}

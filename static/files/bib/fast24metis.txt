@@ -7,6 +7,7 @@
   ADDRESS =      "Santa Clara, CA",
   MONTH =        "February",
   YEAR =         "2024",
+  PAGES =        "123--140",
   PUBLISHER =    "USENIX Association",
   KEY =          "fast2024",
 }

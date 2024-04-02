@@ -1,0 +1,11 @@
+@ARTICLE{wwwj20darkda,
+  TITLE =        "A framework for image dark data assessment",
+  AUTHOR =       "Ke Zhou and Yangtao Wang and Yu Liu and Yujuan Yang and Yifei Liu and Guoliang Li and Lianli Gao and Zhili Xiao",
+  JOURNAL =      "World Wide Web",
+  VOLUME =       "23",
+  NUMBER =       "3",
+  PAGES =        "2079--2105",
+  YEAR =         "2020",
+  PUBLISHER =    "Springer",
+  DOI =          "10.1007/S11280-020-00779-X",
+}

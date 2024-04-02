@@ -1,0 +1,12 @@
+@INPROCEEDINGS{scc18bayes,
+  AUTHOR =       "Jianxiao Liu and Zonglin Tian and Yifei Liu and Liang Zhao",
+  TITLE =        "Research of Web Service Recommendation Using Bayesian Network Reasoning",
+  BOOKTITLE =    "Proceedings of the 15th International Conference on Services Computing (SCC '18)",
+  MONTH =        "June",
+  YEAR =         "2018",
+  VOLUME =       "10969",
+  PAGES =        "19--35",
+  ADDRESS =      "Seattle, WA",
+  PUBLISHER =    "Springer",
+  DOI =          "10.1007/978-3-319-94376-3\_2",
+}

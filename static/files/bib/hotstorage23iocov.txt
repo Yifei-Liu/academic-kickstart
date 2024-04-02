@@ -4,7 +4,9 @@
   BOOKTITLE =    "Proceedings of the 15th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage '23)",
   MONTH =        "July",
   YEAR =         "2023",
+  PAGES =        "93--101",
   PUBLISHER =    "ACM",
   ADDRESS =      "Boston, MA",
   KEY =          "HOTSTORAGE 2023",
+  DOI =          "10.1145/3599691.3603405",
 }

@@ -1,0 +1,12 @@
+@INPROCEEDINGS{apweb19hashgr,
+  AUTHOR =       "Yangtao Wang and Yu Liu and Yifei Liu and Ke Zhou and Yujuan Yang and Jiangfeng Zeng and Xiaodong Xu and Zhili Xiao",
+  TITLE =        "Analysis and Management to Hash-Based Graph and Rank",
+  BOOKTITLE =    "Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (APWeb-WAIM '19)",
+  MONTH =        "August",
+  YEAR =         "2019",
+  VOLUME =       "11641",
+  PAGES =        "289--296",
+  ADDRESS =      "Chengdu, China",
+  PUBLISHER =    "Springer",
+  DOI =          "10.1007/978-3-030-26072-9\_22",
+}
