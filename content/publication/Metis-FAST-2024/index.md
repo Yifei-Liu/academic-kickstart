@@ -30,6 +30,8 @@ links:
     url: 'https://www.usenix.org/conference/fast24/'
   - name: Slides
     url: "files/Slides-Metis-FAST2024.pdf"
+  - name: Video
+    url: 'https://www.youtube.com/watch?v=2d1cqA7IPTE'
   - name: Poster
     url: "files/Poster-Metis-FAST2024.pdf"
   - name: Code

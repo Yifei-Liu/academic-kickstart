@@ -26,7 +26,9 @@ links:
   - name: Venue
     url: 'https://www.hotstorage.org/2021/'
   - name: Slides
-    url: "files/Slides-MCFS-HotStorage2021.pdf"  
+    url: "files/Slides-MCFS-HotStorage2021.pdf"
+  - name: Video
+    url: 'https://www.youtube.com/watch?v=oIds5yVLTHg'  
 
 
 # Featured image
