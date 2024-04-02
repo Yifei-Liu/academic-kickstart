@@ -20,7 +20,7 @@ links:
   - name: PDF
     url: "files/MTC-KNEE-MASCOTS2023.pdf"
   - name: BibTeX
-    url: "files/bib/tyler23mascots.bib"
+    url: "files/bib/tyler23mascots.txt"
   - name: IEEE
     url: 'https://ieeexplore.ieee.org/document/10387545/'
   - name: Venue

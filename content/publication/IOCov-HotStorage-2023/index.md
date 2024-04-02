@@ -20,7 +20,7 @@ links:
   - name: PDF
     url: "files/IOCov-HotStorage2023.pdf"
   - name: BibTeX
-    url: "files/bib/hotstorage23iocov.bib"
+    url: "files/bib/hotstorage23iocov.txt"
   - name: ACM
     url: 'https://dl.acm.org/doi/10.1145/3599691.3603405'
   - name: Venue

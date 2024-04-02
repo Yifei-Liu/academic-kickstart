@@ -23,7 +23,7 @@ links:
   - name: PDF
     url: "files/Metis-FAST2024.pdf"
   - name: BibTeX
-    url: "files/bib/fast24metis.bib"
+    url: "files/bib/fast24metis.txt"
   - name: USENIX
     url: 'https://www.usenix.org/conference/fast24/presentation/liu-yifei'
   - name: Venue
