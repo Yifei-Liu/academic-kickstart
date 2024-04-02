@@ -16,9 +16,14 @@ draft: false
 publication_types: ["1"]
 publication: "22nd USENIX Conference on File and Storage Technologies (FAST 2024), Santa Clara, CA."
 
+# link order: 
+# (Project), PDF, BibTex, USENIX/ACM/IEEE, Venue (if applicable), Code, Slides, Video, Poster, Feature/Press/Media
+
 links:
   - name: PDF
     url: "files/Metis-FAST2024.pdf"
+  - name: BibTeX
+    url: "files/bib/fast24metis.bib"
   - name: USENIX
     url: 'https://www.usenix.org/conference/fast24/presentation/liu-yifei'
   - name: Venue

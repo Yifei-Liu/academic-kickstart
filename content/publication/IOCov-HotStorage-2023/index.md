@@ -19,6 +19,8 @@ publication: "15th ACM Workshop on Hot Topics in Storage and File Systems (HotSt
 links:
   - name: PDF
     url: "files/IOCov-HotStorage2023.pdf"
+  - name: BibTeX
+    url: "files/bib/hotstorage23iocov.bib"
   - name: ACM
     url: 'https://dl.acm.org/doi/10.1145/3599691.3603405'
   - name: Venue

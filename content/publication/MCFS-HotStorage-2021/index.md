@@ -19,6 +19,8 @@ publication: "13th ACM Workshop on Hot Topics in Storage and File Systems (HotSt
 links:
   - name: PDF
     url: "files/MCFS-HotStorage2021.pdf"
+  - name: BibTeX
+    url: "files/bib/hotstorage21mcfs.bib"
   - name: ACM
     url: 'https://dl.acm.org/doi/10.1145/3465332.3470878'
   - name: Venue

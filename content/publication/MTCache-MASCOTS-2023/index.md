@@ -19,6 +19,8 @@ publication: "31st International Symposium on the Modeling, Analysis, and Simula
 links:
   - name: PDF
     url: "files/MTC-KNEE-MASCOTS2023.pdf"
+  - name: BibTeX
+    url: "files/bib/tyler23mascots.bib"
   - name: IEEE
     url: 'https://ieeexplore.ieee.org/document/10387545/'
   - name: Venue

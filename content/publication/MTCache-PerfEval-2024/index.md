@@ -19,6 +19,8 @@ publication: "Performance Evaluation (PEVA)"
 links:
   - name: PDF
     url: "files/MTCache-PEVA2024.pdf"
+  - name: BibTeX
+    url: "files/bib/estro24peva.bib"
   - name: Elsevier
     url: 'https://www.sciencedirect.com/science/article/abs/pii/S0166531624000154'
   
