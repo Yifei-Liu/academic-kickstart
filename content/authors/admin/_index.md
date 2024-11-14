@@ -29,8 +29,11 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    institution: Stony Brook University, New York
+    institution: Stony Brook University
     year: 2019 - Current
+  - course: M.S. in Computer Science (earned on the way to PhD)
+    institution: Stony Brook University
+    year: 2019 - 2021
   - course: M.Eng. in Computer System Architecture
     institution: Huazhong University of Science and Technology
     year: 2016 - 2019
