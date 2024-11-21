@@ -31,7 +31,7 @@ design:
 ---
 
 <ul>
-  <li>Nov. 2024: I successfully passed my Thesis Proposal ("Prelim" exam). Many thanks to my committee members and advisor for their guidance!</li>
+  <li>Nov. 2024: I successfully passed my Thesis Proposal ("Prelim" exam). Thanks to my committee members and advisor!</li>
   <li>Feb. 2024: A paper on multi-tier caching was accepted to the <a href="https://www.sciencedirect.com/journal/performance-evaluation">Performance Evaluation</a> journal.</li>
   <li>Dec. 2023: A paper on file system model checking was accepted to <a href="https://www.usenix.org/conference/fast24">FAST 2024</a>.</li>
   <li>Aug. 2023: A paper on multi-tier caching was accepted to <a href="https://mascots.iitis.pl/">MASCOTS 2023</a>.</li>
