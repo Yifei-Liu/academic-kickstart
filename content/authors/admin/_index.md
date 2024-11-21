@@ -31,7 +31,7 @@ education:
   - course: Ph.D. in Computer Science
     institution: Stony Brook University
     year: 2019 - Current
-  - course: M.S. in Computer Science (earned on the way to PhD)
+  - course: M.S. in Computer Science
     institution: Stony Brook University
     year: 2019 - 2021
   - course: M.Eng. in Computer System Architecture
@@ -86,4 +86,4 @@ I am Yifei Liu, a Ph.D. candidate in [Computer Science](https://www.cs.stonybroo
 
 Before Stony Brook, I was a Master's student and research assistant at the [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn), advised by [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/en/index.htm), at [Huazhong University of Science and Technology](http://english.hust.edu.cn).  There, I focused on the integration of content-based semantic queries in storage systems.
 
-<b style="color: red;">I am actively seeking an engineering or research role starting summer 2025.</b>
+<b style="color: red;">I am seeking an engineering or research role starting flexibly between May and August 2025.</b>
