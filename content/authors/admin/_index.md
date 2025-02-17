@@ -31,9 +31,6 @@ education:
   - course: Ph.D. in Computer Science
     institution: Stony Brook University
     year: 2019 - Current
-  - course: M.S. in Computer Science
-    institution: Stony Brook University
-    year: 2019 - 2021
   - course: M.Eng. in Computer System Architecture
     institution: Huazhong University of Science and Technology
     year: 2016 - 2019
@@ -82,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-I am Yifei Liu, a Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). I am broadly interested in file/storage systems and operating systems. My recent work seeks to test kernel file systems more readily and thoroughly by model checking and other related techniques.
+I am Yifei Liu, a final-year Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). I am broadly interested in file/storage systems and operating systems. My recent work seeks to test kernel file systems more readily and thoroughly by model checking and other related techniques.
 
 Before Stony Brook, I was a Master's student and research assistant at the [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn), advised by [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/en/index.htm), at [Huazhong University of Science and Technology](http://english.hust.edu.cn).  There, I focused on the integration of content-based semantic queries in storage systems.
 
