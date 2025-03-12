@@ -79,8 +79,8 @@ user_groups:
 - Visitors
 ---
 
-I am Yifei Liu, a final-year Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). I am broadly interested in file/storage systems and operating systems. My recent work seeks to test kernel file systems more readily and thoroughly by model checking and other related techniques.
+I am Yifei Liu, a final-year Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu) at [Stony Brook University](https://www.stonybrook.edu). I am part of the [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). I also collaborate closely with [Prof. Geoff Kuenning](https://www.cs.hmc.edu/~geoff/geoff.html) and [Prof. Scott A. Smolka](https://www3.cs.stonybrook.edu/~sas/). I am broadly interested in file/storage systems and operating systems. My recent work seeks to test kernel file systems more readily and thoroughly by model checking and other related techniques.
 
-Before Stony Brook, I was a Master's student and research assistant at the [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn), advised by [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/en/index.htm), at [Huazhong University of Science and Technology](http://english.hust.edu.cn).  There, I focused on the integration of content-based semantic queries in storage systems.
+Before Stony Brook, I was a Master's student and research assistant at the [Wuhan National Laboratory for Optoelectronics](http://english.wnlo.hust.edu.cn), advised by [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/en/index.htm), at [Huazhong University of Science and Technology](http://english.hust.edu.cn). There, I focused on the integration of content-based semantic queries in storage systems.
 
-<b style="color: red;">I am seeking an engineering or research role starting flexibly between May and August 2025.</b>
+<b style="color: red;">I am seeking an engineering or research role starting in August 2025.</b>
