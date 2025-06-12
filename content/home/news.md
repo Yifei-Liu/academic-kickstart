@@ -30,6 +30,40 @@ design:
     #text_color_light: true
 ---
 
+<style>
+  .toggle-button {
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    transition: color 0.3s ease;
+  }
+
+  .toggle-button:hover {
+    color: #007acc;
+  }
+
+  .toggle-icon {
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+
+  .toggle-icon.open {
+    transform: rotate(90deg); /* ▶ becomes ▼ */
+  }
+
+  #news {
+    overflow: hidden;
+    transition: max-height 0.5s ease;
+    max-height: 0;
+  }
+
+  #news.open {
+    max-height: 1000px; /* Set high enough to accommodate full list */
+  }
+</style>
+
 <div>
   <ul>
     <li>Nov. 2024: I successfully passed my Thesis Proposal. Thanks to my committee members and advisor!</li>
@@ -40,10 +74,13 @@ design:
   </ul>
 
   <!-- Toggle Button -->
-  <div id="toggle" class="toggle-button" style="cursor:pointer; font-weight:bold;" onclick="toggleNews()">▶ More News</div>
+  <div class="toggle-button" onclick="toggleNews()">
+    <span id="icon" class="toggle-icon">▶</span>
+    <span id="label">More News</span>
+  </div>
 
   <!-- Hidden News Section -->
-  <div id="news" style="display:none;">
+  <div id="news">
     <ul>
       <li>May 2022: I started a summer internship at <a href="https://samsungmsl.com/">Memory Solutions Lab, Samsung Semiconductor</a>.</li>
       <li>Mar. 2022: I delivered a presentation with Prof. Scott Smolka at <a href="https://gears.win.tue.nl/events/dmcd22/">Dutch Model Checking Day 2022</a>.</li>
@@ -57,10 +94,17 @@ design:
 
 <script>
   function toggleNews() {
-    const news = document.getElementById('news');
-    const toggle = document.getElementById('toggle');
-    const isHidden = news.style.display === 'none';
-    news.style.display = isHidden ? 'block' : 'none';
-    toggle.textContent = isHidden ? '▼ More News' : '▶ More News';
+    const news = document.getElementById("news");
+    const icon = document.getElementById("icon");
+    const label = document.getElementById("label");
+
+    news.classList.toggle("open");
+    icon.classList.toggle("open");
+
+    if (news.classList.contains("open")) {
+      label.innerText = "Hide News";
+    } else {
+      label.innerText = "More News";
+    }
   }
 </script>
