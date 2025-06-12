@@ -44,19 +44,18 @@ design:
     color: #007acc;
   }
   .toggle-icon {
-    display: inline-block;
     transition: transform 0.3s ease;
   }
   .toggle-icon.open {
     transform: rotate(90deg);
   }
   #news {
+    max-height: 0;
     overflow: hidden;
     transition: max-height 0.5s ease;
-    max-height: 0;
   }
   #news.open {
-    max-height: 1000px;
+    max-height: 1000px; /* large enough for full expansion */
   }
 </style>
 
@@ -69,7 +68,7 @@ design:
     <li>May 2023: A paper on coverage metrics for file system testing was accepted to <a href="https://www.hotstorage.org/2023/">HotStorage 2023</a>.</li>
   </ul>
 
-  <div class="toggle-button" onclick="toggleNews()" tabindex="0" role="button" aria-expanded="false" id="toggleBtn">
+  <div class="toggle-button" onclick="toggleNews()">
     <span id="icon" class="toggle-icon">▶</span>
     <span id="label">More News</span>
   </div>
@@ -91,7 +90,6 @@ design:
     const news = document.getElementById("news");
     const icon = document.getElementById("icon");
     const label = document.getElementById("label");
-    const btn = document.getElementById("toggleBtn");
 
     news.classList.toggle("open");
     icon.classList.toggle("open");
@@ -99,11 +97,9 @@ design:
     if (news.classList.contains("open")) {
       label.innerText = "Hide News";
       icon.innerText = "▼";
-      btn.setAttribute('aria-expanded', 'true');
     } else {
       label.innerText = "More News";
       icon.innerText = "▶";
-      btn.setAttribute('aria-expanded', 'false');
     }
   }
 </script>
