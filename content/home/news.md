@@ -38,29 +38,25 @@ design:
     align-items: center;
     gap: 0.5em;
     transition: color 0.3s ease;
+    margin-top: 1em;
   }
-
   .toggle-button:hover {
     color: #007acc;
   }
-
   .toggle-icon {
     display: inline-block;
     transition: transform 0.3s ease;
   }
-
   .toggle-icon.open {
-    transform: rotate(90deg); /* ▶ becomes ▼ */
+    transform: rotate(90deg);
   }
-
   #news {
     overflow: hidden;
     transition: max-height 0.5s ease;
     max-height: 0;
   }
-
   #news.open {
-    max-height: 1000px; /* Set high enough to accommodate full list */
+    max-height: 1000px;
   }
 </style>
 
@@ -73,13 +69,11 @@ design:
     <li>May 2023: A paper on coverage metrics for file system testing was accepted to <a href="https://www.hotstorage.org/2023/">HotStorage 2023</a>.</li>
   </ul>
 
-  <!-- Toggle Button -->
-  <div class="toggle-button" onclick="toggleNews()">
+  <div class="toggle-button" onclick="toggleNews()" tabindex="0" role="button" aria-expanded="false" id="toggleBtn">
     <span id="icon" class="toggle-icon">▶</span>
     <span id="label">More News</span>
   </div>
 
-  <!-- Hidden News Section -->
   <div id="news">
     <ul>
       <li>May 2022: I started a summer internship at <a href="https://samsungmsl.com/">Memory Solutions Lab, Samsung Semiconductor</a>.</li>
@@ -97,14 +91,19 @@ design:
     const news = document.getElementById("news");
     const icon = document.getElementById("icon");
     const label = document.getElementById("label");
+    const btn = document.getElementById("toggleBtn");
 
     news.classList.toggle("open");
     icon.classList.toggle("open");
 
     if (news.classList.contains("open")) {
       label.innerText = "Hide News";
+      icon.innerText = "▼";
+      btn.setAttribute('aria-expanded', 'true');
     } else {
       label.innerText = "More News";
+      icon.innerText = "▶";
+      btn.setAttribute('aria-expanded', 'false');
     }
   }
 </script>
