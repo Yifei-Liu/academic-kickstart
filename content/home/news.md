@@ -34,28 +34,17 @@ design:
   .toggle-button {
     cursor: pointer;
     font-weight: bold;
-    display: flex;
-    align-items: center;
-    gap: 0.5em;
-    transition: color 0.3s ease;
     margin-top: 1em;
+    color: #333;
   }
+
   .toggle-button:hover {
     color: #007acc;
   }
-  .toggle-icon {
-    transition: transform 0.3s ease;
-  }
-  .toggle-icon.open {
-    transform: rotate(90deg);
-  }
+
   #news {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.5s ease;
-  }
-  #news.open {
-    max-height: 1000px; /* large enough for full expansion */
+    display: none;
+    margin-top: 0.5em;
   }
 </style>
 
@@ -68,10 +57,7 @@ design:
     <li>May 2023: A paper on coverage metrics for file system testing was accepted to <a href="https://www.hotstorage.org/2023/">HotStorage 2023</a>.</li>
   </ul>
 
-  <div class="toggle-button" onclick="toggleNews()">
-    <span id="icon" class="toggle-icon">▶</span>
-    <span id="label">More News</span>
-  </div>
+  <div class="toggle-button" onclick="toggleNews()">▶ More News</div>
 
   <div id="news">
     <ul>
@@ -88,18 +74,19 @@ design:
 <script>
   function toggleNews() {
     const news = document.getElementById("news");
-    const icon = document.getElementById("icon");
-    const label = document.getElementById("label");
+    const toggle = document.querySelector(".toggle-button");
 
-    news.classList.toggle("open");
-    icon.classList.toggle("open");
-
-    if (news.classList.contains("open")) {
-      label.innerText = "Hide News";
-      icon.innerText = "▼";
+    if (news.style.display === "none") {
+      news.style.display = "block";
+      toggle.innerText = "▼ Hide News";
     } else {
-      label.innerText = "More News";
-      icon.innerText = "▶";
+      news.style.display = "none";
+      toggle.innerText = "▶ More News";
     }
   }
+
+  // Set initial state
+  document.addEventListener("DOMContentLoaded", () => {
+    document.getElementById("news").style.display = "none";
+  });
 </script>
