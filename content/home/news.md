@@ -45,6 +45,6 @@ design:
 - Jan. 2022: I passed the Research Proficiency Examination and advanced to candidacy.
 - Jun. 2021: A paper on model checking for file system development was accepted to [HotStorage 2021](https://www.hotstorage.org/2021/).  
 - Feb. 2020: A paper on content sifting storage was accepted to [DAC 2020](https://www.dac.com/About/Conference-Archive/57th-DAC-2020/).  
-- Jan. 2020: I joined [File Systems and Storage Lab](https://www.fsl.cs.stonybrook.edu/).  
+- Jan. 2020: I joined [File Systems and Storage Lab (FSL)](https://www.fsl.cs.stonybrook.edu/).  
 
 </details>
