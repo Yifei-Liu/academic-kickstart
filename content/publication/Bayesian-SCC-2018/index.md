@@ -22,7 +22,7 @@ links:
   - name: Code
     url: 'https://github.com/Yifei-Liu/BayesianNetworkReasoning'
 
-projects: ["BayesianNetwork-Proj"]
+#projects: ["BayesianNetwork-Proj"]
 
 ---
 

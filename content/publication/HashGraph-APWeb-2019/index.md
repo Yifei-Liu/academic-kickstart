@@ -19,7 +19,7 @@ links:
   - name: Venue
     url: 'https://cfm.uestc.edu.cn/apwebwaim2019/'
 
-projects: ["DarkData-Proj"]
+#projects: ["DarkData-Proj"]
 
 ---
 

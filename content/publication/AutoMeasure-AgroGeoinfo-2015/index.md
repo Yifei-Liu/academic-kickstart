@@ -26,7 +26,7 @@ links:
   - name: Code
     url: 'https://github.com/Yifei-Liu/AutoMeasure_LSD'
 
-projects: ["AutoMeasure-Proj"]
+#projects: ["AutoMeasure-Proj"]
 
 ---
 
