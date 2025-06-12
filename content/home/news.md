@@ -39,9 +39,9 @@ design:
 <!--
   <li>May 2022: I started a summer internship at <a href="https://samsungmsl.com/">Memory Solutions Lab, Samsung Semiconductor</a>.</li>
   <li>Mar. 2022: I delivered a presentation with Prof. Scott Smolka at <a href="https://gears.win.tue.nl/events/dmcd22/">Dutch Model Checking Day 2022</a>.</li>
-  <li><b>[Jan. 2022]</b>  I passed the Research Proficiency Examination and advanced to candidacy.</li>
-  <li><b>[Jun. 2021]</b>  A paper on model checking for file system development got accepted by <a href="https://www.hotstorage.org/2021/">HotStorage 2021</a>.</li>
-  <li><b>[Feb. 2020]</b>  A paper on content sifting storage got accepted by <a href="https://www.dac.com/About/Conference-Archive/57th-DAC-2020/">DAC 2020</a>.</li>
-  <li><b>[Jan. 2020]</b>  I joined <a href="https://www.fsl.cs.stonybrook.edu/">File systems and Storage Lab (FSL)</a>.</li>
+  <li>Jan. 2022: I passed the Research Proficiency Examination and advanced to candidacy.</li>
+  <li>Jun. 2021: A paper on model checking for file system development was accepted to <a href="https://www.hotstorage.org/2021/">HotStorage 2021</a>.</li>
+  <li>Feb. 2020: A paper on content sifting storage was accepted to <a href="https://www.dac.com/About/Conference-Archive/57th-DAC-2020/">DAC 2020</a>.</li>
+  <li>Jan. 2020: I joined <a href="https://www.fsl.cs.stonybrook.edu/">File systems and Storage Lab (FSL)</a>.</li>
 -->
 </ul>
