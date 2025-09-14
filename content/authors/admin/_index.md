@@ -85,4 +85,4 @@ I am Yifei Liu, a Software Engineer at [Google Cloud](https://cloud.google.com/)
 I earned my Ph.D. in [Computer Science](https://www.cs.stonybrook.edu) from [Stony Brook University](https://www.stonybrook.edu).
 As part of the [File Systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/) and collaborating with [Prof. Geoff Kuenning](https://www.cs.hmc.edu/~geoff/geoff.html) and [Prof. Scott A. Smolka](https://www3.cs.stonybrook.edu/~sas/), I worked on advancing file and storage systems, focusing on model checking and automated testing of kernel file systems.
 
-My work produced tools and frameworks that improve the correctness, reliability, and robustness of modern storage systems.
+My work produced tools and frameworks that enhance the correctness, reliability, and functionality of modern storage systems.
