@@ -93,11 +93,11 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-address = {street = "Room 336, New Computer Science Building", city = "Stony Brook", region = "NY", postcode = "11794", country = "United States", country_code = "US"}
+address = {street = "Google Kirkland - 6th St Campus", city = "Kirkland", region = "WA", postcode = "98033", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.912989", longitude = "-73.123756"}
+coordinates = {latitude = "47.7278", longitude = "-122.1905"}
 
 # Directions for visitors to locate you.
 directions = ""
