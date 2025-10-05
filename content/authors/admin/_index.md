@@ -83,6 +83,6 @@ user_groups:
 I am Yifei Liu, a Software Engineer at [Google Cloud](https://cloud.google.com/) in the Greater Seattle area, working on building efficient, reliable, and scalable cloud infrastructure for AI/ML and beyond. 
 
 I earned my Ph.D. in [Computer Science](https://www.cs.stonybrook.edu) from [Stony Brook University](https://www.stonybrook.edu).
-As part of the [File Systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), advised by [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/) and collaborating with [Prof. Geoff Kuenning](https://www.cs.hmc.edu/~geoff/geoff.html) and [Prof. Scott A. Smolka](https://www3.cs.stonybrook.edu/~sas/), I worked on advancing file and storage systems, focusing on model checking and automated testing of kernel file systems.
+I conducted my research at the [File Systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), under the guidance of [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/) and in collaboration with [Prof. Geoff Kuenning](https://www.cs.hmc.edu/~geoff/geoff.html), [Prof. Scott A. Smolka](https://www3.cs.stonybrook.edu/~sas/), and many others. I focused on enhancing storage reliability and correctness through model checking and automated testing of kernel file systems.
 
 My work produced tools and frameworks that enhance the correctness, reliability, and functionality of modern storage systems. My Ph.D. dissertation titled "Advancing File System Model Checking: Coverage, Framework, and Scalability" is available [here](files/yifei-liu-phd-dissertation.pdf).
